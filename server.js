@@ -1,1 +1,2 @@
-console.log("hello")
+console.log("hello word")
+console.log("welcome manda")
